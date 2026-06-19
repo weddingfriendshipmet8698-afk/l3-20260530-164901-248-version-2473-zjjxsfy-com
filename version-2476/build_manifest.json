@@ -1,0 +1,21 @@
+{
+    "site_title": "国产精选电影-精选电影合集-高清电影在线点播",
+    "movie_count": 2000,
+    "detail_pages": 2000,
+    "category_pages": 10,
+    "channel_counts": {
+        "drama": 200,
+        "suspense": 200,
+        "action": 200,
+        "comedy": 200,
+        "romance": 200,
+        "fantasy": 200,
+        "history": 200,
+        "youth": 200,
+        "thriller": 200,
+        "series": 200
+    },
+    "m3u8_sources_extracted_from_uploaded_js": 20,
+    "generated_at": "2026-05-26",
+    "notes": "All HTML pages include the required analytics script and use readable multi-line HTML/CSS/JS."
+}
